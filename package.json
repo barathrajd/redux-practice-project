@@ -1,0 +1,21 @@
+{
+  "name": "redux-practice-project",
+  "version": "1.0.0",
+  "description": "This is redux toolkit practice project for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-barathrajd:barathrajd/redux-practice-project.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "toolkit",
+    "JS"
+  ],
+  "author": "barathrajd",
+  "license": "ISC"
+}
